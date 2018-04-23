@@ -1,0 +1,6 @@
+Salon,Capacidad,MovilXpress,TipoAuditorio,Oscurecimiento,ImplementosEspeciales
+1,18,1,0,0,1
+2,21,1,0,1,1
+3,29,0,1,1,0
+4,36,1,1,1,0
+5,27,1,0,1,1
